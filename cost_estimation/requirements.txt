@@ -1,0 +1,2 @@
+tiktoken
+lightrag-hku[api]
